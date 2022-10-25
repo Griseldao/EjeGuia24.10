@@ -1,1 +1,2 @@
- Primer día 24.10 - uso de GIT con GITHUB
+ Primer día 24.10 - Mi primer commint
+ uso de GIT con GITHUB
